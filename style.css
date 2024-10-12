@@ -37,6 +37,7 @@ a {
 .header p {
     font-size: 18px;
     margin: 0;
+    color: red;
 }
 
 .current-time {
@@ -131,7 +132,7 @@ input[type="checkbox"] {
     }
 
     .header p {
-        font-size: 16px;
+        font-size: 12px;
     }
 
     .iframe-btn, .telegram-btn, .download-btn {
@@ -146,7 +147,8 @@ input[type="checkbox"] {
     }
 
     .header p {
-        font-size: 30px;
+        font-size: 23px;
+        color: red:
     }
 
     .header {
